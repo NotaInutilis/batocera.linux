@@ -11342,7 +11342,7 @@ msgstr "Pohyb vpred"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Move Forward, Can be use to press W"
+msgid "Move forward, can be use to press W"
 msgstr "Pohyb vpred, môže sa použiť na stlačenie W"
 
 #. TRANSLATION: 3ds.azahar.keys
@@ -12217,7 +12217,7 @@ msgstr "Otvoriť konzolu LUA"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Open Menu"
+msgid "Open menu"
 msgstr "Otvoriť menu"
 
 #. TRANSLATION: corsixth.keys

@@ -18503,7 +18503,7 @@ msgstr "次の武器"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Move Forward, Can be use to press W"
+msgid "Move forward, can be use to press W"
 msgstr "前進、W を押すと可能"
 
 #. TRANSLATION: catacomb.keys
@@ -18528,7 +18528,7 @@ msgstr "開始 / 有効"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Open Menu"
+msgid "Open menu"
 msgstr "メニューを開く"
 
 #. TRANSLATION: catacomb.keys

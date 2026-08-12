@@ -11868,7 +11868,7 @@ msgstr "Mișcă înainte"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Move Forward, Can be use to press W"
+msgid "Move forward, can be use to press W"
 msgstr "Mișcă înainte, poate fi folosit pentru a apăsa W"
 
 #. TRANSLATION: 3ds.azahar.keys
@@ -12779,7 +12779,7 @@ msgstr "Deschide consola LUA"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Open Menu"
+msgid "Open menu"
 msgstr "Deschide meniul"
 
 #. TRANSLATION: corsixth.keys

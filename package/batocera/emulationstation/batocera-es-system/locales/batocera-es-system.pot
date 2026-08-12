@@ -18179,7 +18179,7 @@ msgstr ""
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Move Forward, Can be use to press W"
+msgid "Move forward, can be use to press W"
 msgstr ""
 
 #. TRANSLATION: catacomb.keys
@@ -18204,7 +18204,7 @@ msgstr ""
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Open Menu"
+msgid "Open menu"
 msgstr ""
 
 #. TRANSLATION: catacomb.keys

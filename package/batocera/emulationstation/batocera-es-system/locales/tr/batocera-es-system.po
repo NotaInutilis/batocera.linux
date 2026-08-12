@@ -11852,7 +11852,7 @@ msgstr "İleri Git"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Move Forward, Can be use to press W"
+msgid "Move forward, can be use to press W"
 msgstr "İleri Git, W tuşuna basmak için kullanılabilir"
 
 #. TRANSLATION: 3ds.azahar.keys
@@ -12764,7 +12764,7 @@ msgstr "LUA konsolunu aç"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Open Menu"
+msgid "Open menu"
 msgstr "Menüyü Aç"
 
 #. TRANSLATION: corsixth.keys

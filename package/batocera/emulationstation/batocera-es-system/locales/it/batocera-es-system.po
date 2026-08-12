@@ -11820,7 +11820,7 @@ msgstr "Muovi Avanti"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Move Forward, Can be use to press W"
+msgid "Move forward, can be use to press W"
 msgstr "Muovi Avanti, Puoi anche premere W"
 
 #. TRANSLATION: 3ds.azahar.keys
@@ -12730,7 +12730,7 @@ msgstr "Apri la console LUA"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Open Menu"
+msgid "Open menu"
 msgstr "Apri Menu"
 
 #. TRANSLATION: corsixth.keys

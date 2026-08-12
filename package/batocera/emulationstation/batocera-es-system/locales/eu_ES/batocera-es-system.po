@@ -11471,7 +11471,7 @@ msgstr "Mugitu aurrera"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Move Forward, Can be use to press W"
+msgid "Move forward, can be use to press W"
 msgstr "Mugitu Aurrera, W zapaltzeko erabili daiteke"
 
 #. TRANSLATION: 3ds.azahar.keys
@@ -12356,7 +12356,7 @@ msgstr "Ireki LUA kontsola"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Open Menu"
+msgid "Open menu"
 msgstr "Ireki Menua"
 
 #. TRANSLATION: corsixth.keys

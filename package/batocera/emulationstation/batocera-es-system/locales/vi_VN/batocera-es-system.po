@@ -11798,7 +11798,7 @@ msgstr "Tiến về phía trước"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Move Forward, Can be use to press W"
+msgid "Move forward, can be use to press W"
 msgstr "Tiến về phía trước, có thể được sử dụng để nhấn W"
 
 #. TRANSLATION: 3ds.azahar.keys
@@ -12707,7 +12707,7 @@ msgstr "Mở bảng điều khiển Lua"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Open Menu"
+msgid "Open menu"
 msgstr "Mở menu"
 
 #. TRANSLATION: corsixth.keys

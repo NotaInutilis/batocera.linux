@@ -11885,7 +11885,7 @@ msgstr "Mozgás előre"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Move Forward, Can be use to press W"
+msgid "Move forward, can be use to press W"
 msgstr "Mozgás előre, a W megnyomásával használható"
 
 #. TRANSLATION: 3ds.azahar.keys
@@ -12796,7 +12796,7 @@ msgstr "Nyissa meg a LUA konzolt"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Open Menu"
+msgid "Open menu"
 msgstr "Menü megnyitása"
 
 #. TRANSLATION: corsixth.keys

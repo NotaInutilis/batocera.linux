@@ -11845,7 +11845,7 @@ msgstr "Moure Endavant"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Move Forward, Can be use to press W"
+msgid "Move forward, can be use to press W"
 msgstr "Moure Endavant, Pot ser usat pulsant W"
 
 #. TRANSLATION: 3ds.azahar.keys
@@ -12757,7 +12757,7 @@ msgstr "Obrir consola LUA"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
-msgid "Open Menu"
+msgid "Open menu"
 msgstr "Obrir Menú"
 
 #. TRANSLATION: corsixth.keys
