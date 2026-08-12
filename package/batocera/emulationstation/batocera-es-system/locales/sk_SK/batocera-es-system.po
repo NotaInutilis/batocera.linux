@@ -3024,7 +3024,7 @@ msgstr "AltWFC (172.104.88.237)"
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
-msgid "Alternative Coloured Dot Matrix Display (needs additional file)."
+msgid "Alternative Colored Dot Matrix Display (needs additional file)."
 msgstr "Alternatívny farebný bodový maticový displej (potrebuje dodatočný súbor)."
 
 #. TRANSLATION: vpinball
@@ -4394,12 +4394,12 @@ msgstr "Zafarbenie"
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "COLOUR DEPTH"
+msgid "COLOR DEPTH"
 msgstr "Farebná hĺbka"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "COLOUR MODE"
+msgid "COLOR MODE"
 msgstr "Farebný režim"
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -4719,7 +4719,7 @@ msgstr "VEĽKOSŤ ZAMERIAVAČA"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT COLOUR"
+msgid "CRT COLOR"
 msgstr "CRT farba"
 
 #. TRANSLATION: libretro/o2em
@@ -4744,7 +4744,7 @@ msgstr "CRT prepínače"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT-like colour adaption. Requires New 3D engine."
+msgid "CRT-like color adaption. Requires New 3D engine."
 msgstr "Farebná adaptácia ako CRT. Vyžaduje nový 3D engine."
 
 #. TRANSLATION: citron
@@ -5264,7 +5264,7 @@ msgstr "Vyberte hĺbku kvality textúr."
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "Choose the emulated colour depth."
+msgid "Choose the emulated color depth."
 msgstr "Vyberte emulovanú farebnú hĺbku."
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -5329,7 +5329,7 @@ msgstr "Vyberte veľkosť HUD displeja."
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "Choose the texture colour depth."
+msgid "Choose the texture color depth."
 msgstr "Vyberte farebnú hĺbku textúr."
 
 #. TRANSLATION: openjk, openmohaa
@@ -5359,8 +5359,8 @@ msgstr "Vyberte či ponechať mŕtvoly."
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "Choose to render high definition graphics textures. Requires OpenGL, True Colour and the enhanced.gob file."
-msgstr "Vyberte vykresľovanie textúr s vysokým rozlíšením. Vyžaduje OpenGL, True Colour a súbor enhanced.gob."
+msgid "Choose to render high definition graphics textures. Requires OpenGL, True Color and the enhanced.gob file."
+msgstr "Vyberte vykresľovanie textúr s vysokým rozlíšením. Vyžaduje OpenGL, True Color a súbor enhanced.gob."
 
 #. TRANSLATION: ymir
 msgctxt "game_options"
@@ -7674,7 +7674,7 @@ msgstr "Rýchla prenosová rýchlosť disku"
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "FAVOURITE COLOUR"
+msgid "FAVORITE COLOR"
 msgstr "Obľúbená farba"
 
 #. TRANSLATION: wine
@@ -13412,7 +13412,7 @@ msgstr "RGB (ostrý obraz)"
 
 #. TRANSLATION: libretro/hatarib
 msgctxt "game_options"
-msgid "RGB Colour Low/Medium-Resolution"
+msgid "RGB Color Low/Medium-Resolution"
 msgstr "RGB farebné nízke/stredné rozlíšenie"
 
 #. TRANSLATION: citron
@@ -13562,7 +13562,7 @@ msgstr "Znížiť zasekávanie, ku ktorému dochádza pri kompilácii shaderov."
 
 #. TRANSLATION: libretro/pcsx2, pcsx2
 msgctxt "game_options"
-msgid "Reduces banding between colours and improves the preceived colour depth."
+msgid "Reduces banding between colors and improves the preceived color depth."
 msgstr "Redukuje pruhy medzi farbami a zlepšuje vnímanú farebnú hĺbku."
 
 #. TRANSLATION: rpcs3
@@ -15932,7 +15932,7 @@ msgstr "TEXT"
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "TEXTURE COLOUR DEPTH"
+msgid "TEXTURE COLOR DEPTH"
 msgstr "FAREBNÁ HĹBKA TEXTÚR"
 
 #. TRANSLATION: openmohaa
@@ -16112,7 +16112,7 @@ msgstr "Trojité bufferovanie"
 
 #. TRANSLATION: duckstation
 msgctxt "game_options"
-msgid "TRUE COLOUR RENDERING"
+msgid "TRUE COLOR RENDERING"
 msgstr "Renderovanie v pravých farbách"
 
 #. TRANSLATION: libretro/hatarib
@@ -16312,7 +16312,7 @@ msgstr "Počet vzoriek každej dlaždice sa zvýši pri každom EVENT_WRITE_ZPD 
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "The theme colour of the emulated console."
+msgid "The theme color of the emulated console."
 msgstr "Farba témy emulovanej konzoly."
 
 #. TRANSLATION: ppsspp
@@ -16532,7 +16532,7 @@ msgstr "Trojuholník"
 
 #. TRANSLATION: model2emu
 msgctxt "game_options"
-msgid "Tries to guess Per-vertex colour (gouraud) from the Model2 per-poly information (flat)."
+msgid "Tries to guess Per-vertex color (gouraud) from the Model2 per-poly information (flat)."
 msgstr "Pokúsi sa uhádnuť farbu na vrchol (gouraud) z informácií o modeli2 (flat)."
 
 #. TRANSLATION: openjk, openmohaa
@@ -16562,7 +16562,7 @@ msgstr "Trojité bufferovanie"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "True Colour"
+msgid "True Color"
 msgstr "Pravé farby"
 
 #. TRANSLATION: xenia, xenia-canary
@@ -18758,7 +18758,7 @@ msgstr "žltá/modrá"
 #~ msgstr "Povoliť mipmapping"
 
 #~ msgctxt "game_options"
-#~ msgid "ENABLE TRUE COLOUR"
+#~ msgid "ENABLE TRUE COLOR"
 #~ msgstr "Povoliť pravé farby"
 
 #~ msgctxt "game_options"

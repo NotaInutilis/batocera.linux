@@ -3047,7 +3047,7 @@ msgstr "AltWFC (172.104.88.237) - (Layanan server alternatif)"
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
-msgid "Alternative Coloured Dot Matrix Display (needs additional file)."
+msgid "Alternative Colored Dot Matrix Display (needs additional file)."
 msgstr "Tampilan Dot Matrix Berwarna Alternatif (butuh file tambahan)."
 
 #. TRANSLATION: vpinball
@@ -4449,12 +4449,12 @@ msgstr "PEWARNAAN"
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "COLOUR DEPTH"
+msgid "COLOR DEPTH"
 msgstr "KEDALAMAN WARNA"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "COLOUR MODE"
+msgid "COLOR MODE"
 msgstr "Mode Warna"
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -4778,7 +4778,7 @@ msgstr "Ukuran Bidikan"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT COLOUR"
+msgid "CRT COLOR"
 msgstr "Warna TV Tabung (CRT)"
 
 #. TRANSLATION: libretro/o2em
@@ -4803,7 +4803,7 @@ msgstr "PERALIHAN CRT"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT-like colour adaption. Requires New 3D engine."
+msgid "CRT-like color adaption. Requires New 3D engine."
 msgstr "Penyesuaian warna ala TV tabung jadul. Memerlukan mesin 3D baru."
 
 #. TRANSLATION: citron
@@ -5366,7 +5366,7 @@ msgstr "Pilih kedalaman kualitas tekstur."
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "Choose the emulated colour depth."
+msgid "Choose the emulated color depth."
 msgstr "Pilih Kedalaman Warna yang akan ditiru"
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -5433,7 +5433,7 @@ msgstr "Pilih ukuran tampilan menu info di layar (HUD)."
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "Choose the texture colour depth."
+msgid "Choose the texture color depth."
 msgstr "Pilih kedalaman warna tekstur."
 
 #. TRANSLATION: openjk, openmohaa
@@ -5465,10 +5465,10 @@ msgstr "Pilih untuk membiarkan mayat tetap terlihat (tidak hilang)."
 msgctxt "game_options"
 msgid ""
 "Choose to render high definition graphics textures. Requires OpenGL, True "
-"Colour and the enhanced.gob file."
+"Color and the enhanced.gob file."
 msgstr ""
 "Pilih untuk menampilkan tekstur grafis definisi tinggi (HD)."
-"Memerlukan OpenGL, True Colour, dan file enhanced.gob."
+"Memerlukan OpenGL, True Color, dan file enhanced.gob."
 
 #. TRANSLATION: ymir
 msgctxt "game_options"
@@ -7974,7 +7974,7 @@ msgstr "RATA-RATA KECEPATAN TRANSFER DISK"
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "FAVOURITE COLOUR"
+msgid "FAVORITE COLOR"
 msgstr "Warna Favorit"
 
 #. TRANSLATION: wine
@@ -13929,7 +13929,7 @@ msgstr "RGB (gambar crisp)"
 
 #. TRANSLATION: libretro/hatarib
 msgctxt "game_options"
-msgid "RGB Colour Low/Medium-Resolution"
+msgid "RGB Color Low/Medium-Resolution"
 msgstr "Warna RGB Resolusi Rendah/Sedang"
 
 #. TRANSLATION: citron
@@ -14083,7 +14083,7 @@ msgstr "Mengurangi kegagapan saat membuat shader"
 #. TRANSLATION: libretro/pcsx2, pcsx2
 msgctxt "game_options"
 msgid ""
-"Reduces banding between colours and improves the preceived colour depth."
+"Reduces banding between colors and improves the preceived color depth."
 msgstr ""
 "Mengurangi efek garis gradasi warna (banding) dan meningkatkan kedalaman warna yang terlihat."
 
@@ -16583,7 +16583,7 @@ msgstr "TEKS"
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "TEXTURE COLOUR DEPTH"
+msgid "TEXTURE COLOR DEPTH"
 msgstr "KEDALAMAN WARNA TEKSTUR"
 
 #. TRANSLATION: openmohaa
@@ -16763,7 +16763,7 @@ msgstr "TRIPLE BUFFERING (Fitur sinkronisasi bingkai gambar)"
 
 #. TRANSLATION: duckstation
 msgctxt "game_options"
-msgid "TRUE COLOUR RENDERING"
+msgid "TRUE COLOR RENDERING"
 msgstr "PERUPAAN WARNA ASLI (TRUE COLOR RENDERING)"
 
 #. TRANSLATION: libretro/hatarib
@@ -16983,7 +16983,7 @@ msgstr ""
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "The theme colour of the emulated console."
+msgid "The theme color of the emulated console."
 msgstr "Warna tema dari konsol yang diemulasikan."
 
 #. TRANSLATION: ppsspp
@@ -17219,7 +17219,7 @@ msgstr "Segitiga / Triangle"
 #. TRANSLATION: model2emu
 msgctxt "game_options"
 msgid ""
-"Tries to guess Per-vertex colour (gouraud) from the Model2 per-poly "
+"Tries to guess Per-vertex color (gouraud) from the Model2 per-poly "
 "information (flat)."
 msgstr ""
 "Mencoba menebak warna setiap-vertex(gouraud) dari model2 tiap-poly informasi "
@@ -17252,7 +17252,7 @@ msgstr "Triple buffering"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "True Colour"
+msgid "True Color"
 msgstr "Warna Asli (True Color)"
 
 #. TRANSLATION: xenia, xenia-canary

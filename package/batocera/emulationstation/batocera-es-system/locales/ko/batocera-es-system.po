@@ -3046,7 +3046,7 @@ msgstr "AltWFC (172.104.88.237)"
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
-msgid "Alternative Coloured Dot Matrix Display (needs additional file)."
+msgid "Alternative Colored Dot Matrix Display (needs additional file)."
 msgstr "대체 컬러 도트 매트릭스 디스플레이(추가 파일 필요)."
 
 #. TRANSLATION: vpinball
@@ -4443,12 +4443,12 @@ msgstr "색상화"
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "COLOUR DEPTH"
+msgid "COLOR DEPTH"
 msgstr "색심도"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "COLOUR MODE"
+msgid "COLOR MODE"
 msgstr "색상 모드"
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -4772,7 +4772,7 @@ msgstr "십자선 크기"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT COLOUR"
+msgid "CRT COLOR"
 msgstr "CRT 색상"
 
 #. TRANSLATION: libretro/o2em
@@ -4797,7 +4797,7 @@ msgstr "CRT 스위치"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT-like colour adaption. Requires New 3D engine."
+msgid "CRT-like color adaption. Requires New 3D engine."
 msgstr "CRT와 유사한 색상 적응. 새로운 3D 엔진이 필요합니다."
 
 #. TRANSLATION: citron
@@ -5359,7 +5359,7 @@ msgstr "텍스처 품질의 깊이를 선택하세요."
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "Choose the emulated colour depth."
+msgid "Choose the emulated color depth."
 msgstr "에뮬레이트된 색심도를 선택하세요."
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -5425,7 +5425,7 @@ msgstr "헤드업 디스플레이의 크기를 선택하세요."
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "Choose the texture colour depth."
+msgid "Choose the texture color depth."
 msgstr "텍스처 색상 깊이를 선택하세요."
 
 #. TRANSLATION: openjk, openmohaa
@@ -5457,9 +5457,9 @@ msgstr "시체를 그대로 두는 것을 선택하세요."
 msgctxt "game_options"
 msgid ""
 "Choose to render high definition graphics textures. Requires OpenGL, True "
-"Colour and the enhanced.gob file."
+"Color and the enhanced.gob file."
 msgstr ""
-"고화질 그래픽 텍스처를 렌더링하도록 선택합니다. OpenGL, True Colour, 향상"
+"고화질 그래픽 텍스처를 렌더링하도록 선택합니다. OpenGL, True Color, 향상"
 "된 .gob 파일이 필요합니다."
 
 #. TRANSLATION: ymir
@@ -7951,7 +7951,7 @@ msgstr "빠른 디스크 전송 속도"
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "FAVOURITE COLOUR"
+msgid "FAVORITE COLOR"
 msgstr "즐겨찾기 색상"
 
 #. TRANSLATION: wine
@@ -13884,7 +13884,7 @@ msgstr "RGB (선명한 이미지)"
 
 #. TRANSLATION: libretro/hatarib
 msgctxt "game_options"
-msgid "RGB Colour Low/Medium-Resolution"
+msgid "RGB Color Low/Medium-Resolution"
 msgstr "RGB 색상 저해상도/중간해상도"
 
 #. TRANSLATION: citron
@@ -14037,7 +14037,7 @@ msgstr "셰이더를 컴파일할 때 발생하는 끊김을 줄입니다."
 #. TRANSLATION: libretro/pcsx2, pcsx2
 msgctxt "game_options"
 msgid ""
-"Reduces banding between colours and improves the preceived colour depth."
+"Reduces banding between colors and improves the preceived color depth."
 msgstr "색상 간 밴딩 현상을 줄이고, 인식되는 색상 깊이를 향상시킵니다."
 
 #. TRANSLATION: rpcs3
@@ -16518,7 +16518,7 @@ msgstr "텍스트"
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "TEXTURE COLOUR DEPTH"
+msgid "TEXTURE COLOR DEPTH"
 msgstr "텍스처 색상 깊이"
 
 #. TRANSLATION: openmohaa
@@ -16698,7 +16698,7 @@ msgstr "트리플 버퍼링"
 
 #. TRANSLATION: duckstation
 msgctxt "game_options"
-msgid "TRUE COLOUR RENDERING"
+msgid "TRUE COLOR RENDERING"
 msgstr "트루 컬러 렌더링"
 
 #. TRANSLATION: libretro/hatarib
@@ -16914,7 +16914,7 @@ msgstr ""
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "The theme colour of the emulated console."
+msgid "The theme color of the emulated console."
 msgstr "에뮬레이션된 콘솔의 테마 색상입니다."
 
 #. TRANSLATION: ppsspp
@@ -17147,7 +17147,7 @@ msgstr "삼각형"
 #. TRANSLATION: model2emu
 msgctxt "game_options"
 msgid ""
-"Tries to guess Per-vertex colour (gouraud) from the Model2 per-poly "
+"Tries to guess Per-vertex color (gouraud) from the Model2 per-poly "
 "information (flat)."
 msgstr ""
 "모델2 폴리당 정보 (평면)에서 꼭짓점별 색상(구로)을 추측하려고 시도합니다."
@@ -17179,7 +17179,7 @@ msgstr "트리플 버퍼링"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "True Colour"
+msgid "True Color"
 msgstr "트루 컬러"
 
 #. TRANSLATION: xenia, xenia-canary

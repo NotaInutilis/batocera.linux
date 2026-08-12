@@ -216,7 +216,7 @@ cores:
       pcsx2x6_dithering:
         submenu: RENDERING
         prompt: DITHERING
-        description: Reduces banding between colours and improves the preceived colour depth.
+        description: Reduces banding between colors and improves the preceived color depth.
         choices:
           "Off": 0
           Unscaled (Default): 1

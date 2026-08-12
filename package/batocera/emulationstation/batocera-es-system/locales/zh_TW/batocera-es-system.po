@@ -3038,8 +3038,8 @@ msgstr "AltWFC (172.104.88.237)"
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
-msgid "Alternative Coloured Dot Matrix Display (needs additional file)."
-msgstr "Alternative Coloured Dot Matrix Display (需額外檔案)."
+msgid "Alternative Colored Dot Matrix Display (needs additional file)."
+msgstr "Alternative Colored Dot Matrix Display (需額外檔案)."
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
@@ -4426,12 +4426,12 @@ msgstr "彩色化"
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "COLOUR DEPTH"
+msgid "COLOR DEPTH"
 msgstr "色深度"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "COLOUR MODE"
+msgid "COLOR MODE"
 msgstr "色彩模式"
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -4753,7 +4753,7 @@ msgstr "十字準星尺寸"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT COLOUR"
+msgid "CRT COLOR"
 msgstr "CRT顏色"
 
 #. TRANSLATION: libretro/o2em
@@ -4778,7 +4778,7 @@ msgstr "CRT解析度切換"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT-like colour adaption. Requires New 3D engine."
+msgid "CRT-like color adaption. Requires New 3D engine."
 msgstr "類似 CRT 的色彩調整，需要新的 3D 引擎。"
 
 #. TRANSLATION: citron
@@ -5317,7 +5317,7 @@ msgstr "選擇紋理品質的深度。"
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "Choose the emulated colour depth."
+msgid "Choose the emulated color depth."
 msgstr "選擇模擬色深度。"
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -5383,7 +5383,7 @@ msgstr "選擇平視顯示器的尺寸。"
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "Choose the texture colour depth."
+msgid "Choose the texture color depth."
 msgstr "選擇紋理顏色深度。"
 
 #. TRANSLATION: openjk, openmohaa
@@ -5415,7 +5415,7 @@ msgstr "選擇保留屍體。"
 msgctxt "game_options"
 msgid ""
 "Choose to render high definition graphics textures. Requires OpenGL, True "
-"Colour and the enhanced.gob file."
+"Color and the enhanced.gob file."
 msgstr "選擇算繪高解析圖形紋理。需要 OpenGL、真彩色和增強型.gob 檔案。"
 
 #. TRANSLATION: ymir
@@ -7836,7 +7836,7 @@ msgstr "快速磁碟傳輸速率"
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "FAVOURITE COLOUR"
+msgid "FAVORITE COLOR"
 msgstr "最喜歡的顏色"
 
 #. TRANSLATION: wine
@@ -13690,8 +13690,8 @@ msgstr "RGB (crisp image)"
 
 #. TRANSLATION: libretro/hatarib
 msgctxt "game_options"
-msgid "RGB Colour Low/Medium-Resolution"
-msgstr "RGB Colour Low/Medium-Resolution"
+msgid "RGB Color Low/Medium-Resolution"
+msgstr "RGB Color Low/Medium-Resolution"
 
 #. TRANSLATION: citron
 msgctxt "game_options"
@@ -13842,7 +13842,7 @@ msgstr "減少編譯著色器時發生的卡頓。"
 #. TRANSLATION: libretro/pcsx2, pcsx2
 msgctxt "game_options"
 msgid ""
-"Reduces banding between colours and improves the preceived colour depth."
+"Reduces banding between colors and improves the preceived color depth."
 msgstr "減少顏色之間的條帶並提高感知的色彩深度。"
 
 #. TRANSLATION: rpcs3
@@ -16282,7 +16282,7 @@ msgstr "文字"
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "TEXTURE COLOUR DEPTH"
+msgid "TEXTURE COLOR DEPTH"
 msgstr "紋理顏色深度"
 
 #. TRANSLATION: openmohaa
@@ -16462,7 +16462,7 @@ msgstr "三重緩衝"
 
 #. TRANSLATION: duckstation
 msgctxt "game_options"
-msgid "TRUE COLOUR RENDERING"
+msgid "TRUE COLOR RENDERING"
 msgstr "真彩色再現"
 
 #. TRANSLATION: libretro/hatarib
@@ -16672,7 +16672,7 @@ msgstr ""
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "The theme colour of the emulated console."
+msgid "The theme color of the emulated console."
 msgstr "模擬主機的主題顏色。"
 
 #. TRANSLATION: ppsspp
@@ -16900,7 +16900,7 @@ msgstr "三角形"
 #. TRANSLATION: model2emu
 msgctxt "game_options"
 msgid ""
-"Tries to guess Per-vertex colour (gouraud) from the Model2 per-poly "
+"Tries to guess Per-vertex color (gouraud) from the Model2 per-poly "
 "information (flat)."
 msgstr "嘗試從模型2的每多邊形資訊(平面)中猜測每頂點顏色(gouraud)。"
 
@@ -16931,7 +16931,7 @@ msgstr "三重緩衝"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "True Colour"
+msgid "True Color"
 msgstr "真實的色彩"
 
 #. TRANSLATION: xenia, xenia-canary

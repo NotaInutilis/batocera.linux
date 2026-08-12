@@ -3056,7 +3056,7 @@ msgstr "AltWFC (172.104.88.237)"
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
-msgid "Alternative Coloured Dot Matrix Display (needs additional file)."
+msgid "Alternative Colored Dot Matrix Display (needs additional file)."
 msgstr "Alternatív színes pontmátrix kijelző (további fájl szükséges)."
 
 #. TRANSLATION: vpinball
@@ -4462,12 +4462,12 @@ msgstr "SZÍNEZET"
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "COLOUR DEPTH"
+msgid "COLOR DEPTH"
 msgstr "SZÍNMÉRET"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "COLOUR MODE"
+msgid "COLOR MODE"
 msgstr "SZÍNES MÓD"
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -4791,7 +4791,7 @@ msgstr "CÉLKERÉSZ MÉRET"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT COLOUR"
+msgid "CRT COLOR"
 msgstr "CRT SZÍN"
 
 #. TRANSLATION: libretro/o2em
@@ -4816,7 +4816,7 @@ msgstr "CRT KAPCSOLÓK"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT-like colour adaption. Requires New 3D engine."
+msgid "CRT-like color adaption. Requires New 3D engine."
 msgstr "CRT-szerű színadaptáció. Új 3D motorra van szükség."
 
 #. TRANSLATION: citron
@@ -5383,7 +5383,7 @@ msgstr "Válassza ki a textúra minőségének mélységét."
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "Choose the emulated colour depth."
+msgid "Choose the emulated color depth."
 msgstr "Válassza ki az emulált színmélységet."
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -5451,7 +5451,7 @@ msgstr "Válaszd ki a head-up kijelző méretét."
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "Choose the texture colour depth."
+msgid "Choose the texture color depth."
 msgstr "Válassza ki a textúra színmélységét."
 
 #. TRANSLATION: openjk, openmohaa
@@ -5486,10 +5486,10 @@ msgstr "Válaszd a holttestek jelenlétét."
 msgctxt "game_options"
 msgid ""
 "Choose to render high definition graphics textures. Requires OpenGL, True "
-"Colour and the enhanced.gob file."
+"Color and the enhanced.gob file."
 msgstr ""
 "Válassza a nagyfelbontású grafikai textúrák renderelését. OpenGL, True "
-"Colour és az enhanced.gob fájl szükséges hozzá."
+"Color és az enhanced.gob fájl szükséges hozzá."
 
 #. TRANSLATION: ymir
 msgctxt "game_options"
@@ -8033,7 +8033,7 @@ msgstr "GYORS LEMEZÁTVITELI SEBESSÉG"
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "FAVOURITE COLOUR"
+msgid "FAVORITE COLOR"
 msgstr "KEDVENC SZÍN"
 
 #. TRANSLATION: wine
@@ -14014,7 +14014,7 @@ msgstr "RGB (crisp image)"
 
 #. TRANSLATION: libretro/hatarib
 msgctxt "game_options"
-msgid "RGB Colour Low/Medium-Resolution"
+msgid "RGB Color Low/Medium-Resolution"
 msgstr "RGB szín alacsony/közepes felbontású"
 
 #. TRANSLATION: citron
@@ -14168,7 +14168,7 @@ msgstr "Csökkentse az árnyékolók összeállítása során előforduló dadog
 #. TRANSLATION: libretro/pcsx2, pcsx2
 msgctxt "game_options"
 msgid ""
-"Reduces banding between colours and improves the preceived colour depth."
+"Reduces banding between colors and improves the preceived color depth."
 msgstr "Csökkenti a színek közötti sávosodást és javítja a színmélységet."
 
 #. TRANSLATION: rpcs3
@@ -16683,7 +16683,7 @@ msgstr "SZÖVEG"
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "TEXTURE COLOUR DEPTH"
+msgid "TEXTURE COLOR DEPTH"
 msgstr "TEXTÚRA SZÍN MÉLYSÉG"
 
 #. TRANSLATION: openmohaa
@@ -16863,7 +16863,7 @@ msgstr "HÁRMAS PUFFERELÉS"
 
 #. TRANSLATION: duckstation
 msgctxt "game_options"
-msgid "TRUE COLOUR RENDERING"
+msgid "TRUE COLOR RENDERING"
 msgstr "SZÍNHŰ SZÍNVISSZAADÁS"
 
 #. TRANSLATION: libretro/hatarib
@@ -17082,7 +17082,7 @@ msgstr ""
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "The theme colour of the emulated console."
+msgid "The theme color of the emulated console."
 msgstr "Az emulált konzol témaszíne."
 
 #. TRANSLATION: ppsspp
@@ -17321,7 +17321,7 @@ msgstr "Háromszög"
 #. TRANSLATION: model2emu
 msgctxt "game_options"
 msgid ""
-"Tries to guess Per-vertex colour (gouraud) from the Model2 per-poly "
+"Tries to guess Per-vertex color (gouraud) from the Model2 per-poly "
 "information (flat)."
 msgstr ""
 "Megpróbálja kitalálni a csúcsonkénti színt (gouraud) a Model2 per-poli "
@@ -17354,7 +17354,7 @@ msgstr "Háromszoros pufferelés"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "True Colour"
+msgid "True Color"
 msgstr "Valódi színek"
 
 #. TRANSLATION: xenia, xenia-canary
@@ -19621,7 +19621,7 @@ msgstr "sárga/kék"
 #~ msgstr "MIPMAPPING ENGEDÉLYEZÉSE"
 
 #~ msgctxt "game_options"
-#~ msgid "ENABLE TRUE COLOUR"
+#~ msgid "ENABLE TRUE COLOR"
 #~ msgstr "A VALÓDI SZÍN ENGEDÉLYEZÉSE"
 
 #~ msgctxt "game_options"

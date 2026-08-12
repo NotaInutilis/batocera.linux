@@ -3039,7 +3039,7 @@ msgstr "AltWFC（172.104.88.237）"
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
-msgid "Alternative Coloured Dot Matrix Display (needs additional file)."
+msgid "Alternative Colored Dot Matrix Display (needs additional file)."
 msgstr "可选彩色点阵显示器（需要额外文件）。"
 
 #. TRANSLATION: vpinball
@@ -4426,12 +4426,12 @@ msgstr "彩色化"
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "COLOUR DEPTH"
+msgid "COLOR DEPTH"
 msgstr "颜色深度"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "COLOUR MODE"
+msgid "COLOR MODE"
 msgstr "色彩模式"
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -4753,7 +4753,7 @@ msgstr "十字准线尺寸"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT COLOUR"
+msgid "CRT COLOR"
 msgstr "CRT色彩"
 
 #. TRANSLATION: libretro/o2em
@@ -4778,7 +4778,7 @@ msgstr "CRT低解开关"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT-like colour adaption. Requires New 3D engine."
+msgid "CRT-like color adaption. Requires New 3D engine."
 msgstr "类似CRT的色彩适应, 需要新的3D引擎."
 
 #. TRANSLATION: citron
@@ -5317,7 +5317,7 @@ msgstr "选择纹理质量的深度."
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "Choose the emulated colour depth."
+msgid "Choose the emulated color depth."
 msgstr "选择模拟颜色深度。"
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -5383,7 +5383,7 @@ msgstr "选择平视显示器的大小."
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "Choose the texture colour depth."
+msgid "Choose the texture color depth."
 msgstr "选择纹理颜色深度."
 
 #. TRANSLATION: openjk, openmohaa
@@ -5415,8 +5415,8 @@ msgstr "保留尸体在场状态."
 msgctxt "game_options"
 msgid ""
 "Choose to render high definition graphics textures. Requires OpenGL, True "
-"Colour and the enhanced.gob file."
-msgstr "选择渲染高清晰度图形纹理. 需要OpenGL、True Colour和enhanced.gob文件."
+"Color and the enhanced.gob file."
+msgstr "选择渲染高清晰度图形纹理. 需要OpenGL、True Color和enhanced.gob文件."
 
 #. TRANSLATION: ymir
 msgctxt "game_options"
@@ -7834,7 +7834,7 @@ msgstr "快速磁盘传输速率"
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "FAVOURITE COLOUR"
+msgid "FAVORITE COLOR"
 msgstr "最喜欢的颜色"
 
 #. TRANSLATION: wine
@@ -13689,7 +13689,7 @@ msgstr "RGB（清晰干净的图像）"
 
 #. TRANSLATION: libretro/hatarib
 msgctxt "game_options"
-msgid "RGB Colour Low/Medium-Resolution"
+msgid "RGB Color Low/Medium-Resolution"
 msgstr "RGB颜色低/中分辨率"
 
 #. TRANSLATION: citron
@@ -13841,7 +13841,7 @@ msgstr "减少编译着色器时发生的卡顿。"
 #. TRANSLATION: libretro/pcsx2, pcsx2
 msgctxt "game_options"
 msgid ""
-"Reduces banding between colours and improves the preceived colour depth."
+"Reduces banding between colors and improves the preceived color depth."
 msgstr "减少颜色之间的条纹，并提高预先设定的颜色深度。"
 
 #. TRANSLATION: rpcs3
@@ -16287,7 +16287,7 @@ msgstr "文本"
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "TEXTURE COLOUR DEPTH"
+msgid "TEXTURE COLOR DEPTH"
 msgstr "纹理颜色深度"
 
 #. TRANSLATION: openmohaa
@@ -16467,7 +16467,7 @@ msgstr "三重缓冲"
 
 #. TRANSLATION: duckstation
 msgctxt "game_options"
-msgid "TRUE COLOUR RENDERING"
+msgid "TRUE COLOR RENDERING"
 msgstr "真彩色渲染"
 
 #. TRANSLATION: libretro/hatarib
@@ -16679,7 +16679,7 @@ msgstr ""
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "The theme colour of the emulated console."
+msgid "The theme color of the emulated console."
 msgstr "模拟主机的主题颜色。"
 
 #. TRANSLATION: ppsspp
@@ -16908,7 +16908,7 @@ msgstr "三角"
 #. TRANSLATION: model2emu
 msgctxt "game_options"
 msgid ""
-"Tries to guess Per-vertex colour (gouraud) from the Model2 per-poly "
+"Tries to guess Per-vertex color (gouraud) from the Model2 per-poly "
 "information (flat)."
 msgstr "尝试根据Model2逐多边形信息（平面）猜测逐顶点颜色（gouraud）。"
 
@@ -16939,7 +16939,7 @@ msgstr "三重缓冲"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "True Colour"
+msgid "True Color"
 msgstr "真彩色"
 
 #. TRANSLATION: xenia, xenia-canary
@@ -19162,7 +19162,7 @@ msgstr "黄色/蓝色"
 #~ msgstr "启用MIPMAPPING"
 
 #~ msgctxt "game_options"
-#~ msgid "ENABLE TRUE COLOUR"
+#~ msgid "ENABLE TRUE COLOR"
 #~ msgstr "启用真彩色"
 
 #~ msgctxt "game_options"

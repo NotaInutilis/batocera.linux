@@ -3056,7 +3056,7 @@ msgstr "AltWFC (172.104.88.237)"
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
-msgid "Alternative Coloured Dot Matrix Display (needs additional file)."
+msgid "Alternative Colored Dot Matrix Display (needs additional file)."
 msgstr "Alternative farbige Dot-Matrix-Anzeige (benötigt zusätzliche Datei)."
 
 #. TRANSLATION: vpinball
@@ -4462,12 +4462,12 @@ msgstr "FARBGEBUNG"
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "COLOUR DEPTH"
+msgid "COLOR DEPTH"
 msgstr "FARBTIEFE"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "COLOUR MODE"
+msgid "COLOR MODE"
 msgstr "FARBMODUS"
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -4791,7 +4791,7 @@ msgstr "FADENKREUZ-GRÖSSE"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT COLOUR"
+msgid "CRT COLOR"
 msgstr "CRT-FARBE"
 
 #. TRANSLATION: libretro/o2em
@@ -4816,7 +4816,7 @@ msgstr "CRT SWITCHRES"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT-like colour adaption. Requires New 3D engine."
+msgid "CRT-like color adaption. Requires New 3D engine."
 msgstr "CRT-ähnliche Farbanpassung. Erfordert neue 3D-Engine."
 
 #. TRANSLATION: citron
@@ -5385,7 +5385,7 @@ msgstr "Tiefe der Texturqualität wählen."
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "Choose the emulated colour depth."
+msgid "Choose the emulated color depth."
 msgstr "Wählen Sie die emulierte Farbtiefe."
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -5451,7 +5451,7 @@ msgstr "Größe des HUD wählen."
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "Choose the texture colour depth."
+msgid "Choose the texture color depth."
 msgstr "Farbtiefe der Texturen wählen."
 
 #. TRANSLATION: openjk, openmohaa
@@ -5483,10 +5483,10 @@ msgstr "Leichen beibehalten."
 msgctxt "game_options"
 msgid ""
 "Choose to render high definition graphics textures. Requires OpenGL, True "
-"Colour and the enhanced.gob file."
+"Color and the enhanced.gob file."
 msgstr ""
 "Wählen Sie diese Option, um hochauflösende Grafiktexturen zu rendern. "
-"Erfordert OpenGL, True Colour und die Datei enhanced.gob."
+"Erfordert OpenGL, True Color und die Datei enhanced.gob."
 
 #. TRANSLATION: ymir
 msgctxt "game_options"
@@ -8029,7 +8029,7 @@ msgstr "SCHNELLE DATENTRÄGER-TRANSFERRATE"
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "FAVOURITE COLOUR"
+msgid "FAVORITE COLOR"
 msgstr "BEVORZUGTE FARBE"
 
 #. TRANSLATION: wine
@@ -14037,7 +14037,7 @@ msgstr "RGB (scharfes Bild)"
 
 #. TRANSLATION: libretro/hatarib
 msgctxt "game_options"
-msgid "RGB Colour Low/Medium-Resolution"
+msgid "RGB Color Low/Medium-Resolution"
 msgstr "RGB Farben mit niedriger/mittlerer Auflösung"
 
 #. TRANSLATION: citron
@@ -14191,7 +14191,7 @@ msgstr "Ruckler beim Shader-Kompilieren reduzieren."
 #. TRANSLATION: libretro/pcsx2, pcsx2
 msgctxt "game_options"
 msgid ""
-"Reduces banding between colours and improves the preceived colour depth."
+"Reduces banding between colors and improves the preceived color depth."
 msgstr ""
 "Reduktion von Banding-Effekten bei Farbverläufen und Verbesserung der "
 "wahrgenommenen Farbtiefe."
@@ -16716,7 +16716,7 @@ msgstr "TEXT"
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "TEXTURE COLOUR DEPTH"
+msgid "TEXTURE COLOR DEPTH"
 msgstr "TEXTUREN FARBTIEFE"
 
 #. TRANSLATION: openmohaa
@@ -16896,7 +16896,7 @@ msgstr "DREIFACHE PUFFERUNG"
 
 #. TRANSLATION: duckstation
 msgctxt "game_options"
-msgid "TRUE COLOUR RENDERING"
+msgid "TRUE COLOR RENDERING"
 msgstr "TRUE-COLOR RENDERING"
 
 #. TRANSLATION: libretro/hatarib
@@ -17117,7 +17117,7 @@ msgstr ""
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "The theme colour of the emulated console."
+msgid "The theme color of the emulated console."
 msgstr "Die Themenfarbe der emulierten Konsole."
 
 #. TRANSLATION: ppsspp
@@ -17355,7 +17355,7 @@ msgstr "Triangle"
 #. TRANSLATION: model2emu
 msgctxt "game_options"
 msgid ""
-"Tries to guess Per-vertex colour (gouraud) from the Model2 per-poly "
+"Tries to guess Per-vertex color (gouraud) from the Model2 per-poly "
 "information (flat)."
 msgstr ""
 "Versucht die Farben mit Per-Vertex (Gouraud) aus der Model2 Per-Poly "
@@ -17388,8 +17388,8 @@ msgstr "Dreifache Pufferung"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "True Colour"
-msgstr "True Colour"
+msgid "True Color"
+msgstr "True Color"
 
 #. TRANSLATION: xenia, xenia-canary
 msgctxt "game_options"

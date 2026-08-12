@@ -3031,7 +3031,7 @@ msgstr "AltWFC (172.104.88.237)"
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
-msgid "Alternative Coloured Dot Matrix Display (needs additional file)."
+msgid "Alternative Colored Dot Matrix Display (needs additional file)."
 msgstr "Koloreztatze alternatiboko Puntu Matrize Bistaratzea (fitxategi gehigarria behar du)"
 
 #. TRANSLATION: vpinball
@@ -4409,12 +4409,12 @@ msgstr "KOLOREZTATZEA"
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "COLOUR DEPTH"
+msgid "COLOR DEPTH"
 msgstr "KOLORE SAKONERA"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "COLOUR MODE"
+msgid "COLOR MODE"
 msgstr "KOLORE MODUA"
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -4734,7 +4734,7 @@ msgstr "MIRA TAMAINA"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT COLOUR"
+msgid "CRT COLOR"
 msgstr "CRT KOLOREA"
 
 #. TRANSLATION: libretro/o2em
@@ -4759,7 +4759,7 @@ msgstr "CRT BEREIZMEN ALDAKETA"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT-like colour adaption. Requires New 3D engine."
+msgid "CRT-like color adaption. Requires New 3D engine."
 msgstr "CRT moduko kolore egokitzapena. 3D motore Berria behar du"
 
 #. TRANSLATION: citron
@@ -5291,7 +5291,7 @@ msgstr "Aukeratu testuen kalitate sakonera"
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "Choose the emulated colour depth."
+msgid "Choose the emulated color depth."
 msgstr "Aukeratu emulatutako kolore sakonera"
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -5356,7 +5356,7 @@ msgstr "Aukeratu HUD-aren tamaina"
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "Choose the texture colour depth."
+msgid "Choose the texture color depth."
 msgstr "Aukeratu testuraren kolore sakontasuna."
 
 #. TRANSLATION: openjk, openmohaa
@@ -5386,7 +5386,7 @@ msgstr "Aukeratu hilotzak presente mantentzea."
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "Choose to render high definition graphics textures. Requires OpenGL, True Colour and the enhanced.gob file."
+msgid "Choose to render high definition graphics textures. Requires OpenGL, True Color and the enhanced.gob file."
 msgstr ""
 "Aukeratu definizio handiko testura grafikoak renderizatzea. OpenGL behar du, True Color eta enhanced.gob "
 "fitxategia."
@@ -7748,7 +7748,7 @@ msgstr "DISKO TRANSFERENTZIA TASA ALDUTA"
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "FAVOURITE COLOUR"
+msgid "FAVORITE COLOR"
 msgstr "GOGOKO KOLOREA"
 
 #. TRANSLATION: wine
@@ -13560,7 +13560,7 @@ msgstr "RGB (irudi markatua)"
 
 #. TRANSLATION: libretro/hatarib
 msgctxt "game_options"
-msgid "RGB Colour Low/Medium-Resolution"
+msgid "RGB Color Low/Medium-Resolution"
 msgstr "RGB Kolorea Baxu/Ertain Bereizmena"
 
 #. TRANSLATION: citron
@@ -13710,7 +13710,7 @@ msgstr "Gutxitu shader-ak konpilatzean ematen den toteltzea."
 
 #. TRANSLATION: libretro/pcsx2, pcsx2
 msgctxt "game_options"
-msgid "Reduces banding between colours and improves the preceived colour depth."
+msgid "Reduces banding between colors and improves the preceived color depth."
 msgstr "Bandak sortzea gutxitzen du kolore artean eta antzemandako kolore sakonera hobetzen du."
 
 #. TRANSLATION: rpcs3
@@ -16120,7 +16120,7 @@ msgstr "TESTUA"
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "TEXTURE COLOUR DEPTH"
+msgid "TEXTURE COLOR DEPTH"
 msgstr "TESTURA KOLORE SAKONTASUNA"
 
 #. TRANSLATION: openmohaa
@@ -16300,7 +16300,7 @@ msgstr "BUFFER HIRUKOITZA"
 
 #. TRANSLATION: duckstation
 msgctxt "game_options"
-msgid "TRUE COLOUR RENDERING"
+msgid "TRUE COLOR RENDERING"
 msgstr "BENETAKO KOLORE RENDERIZATZEA"
 
 #. TRANSLATION: libretro/hatarib
@@ -16513,7 +16513,7 @@ msgstr ""
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "The theme colour of the emulated console."
+msgid "The theme color of the emulated console."
 msgstr "Emulatutako kontsolaren gaiaren kolorea."
 
 #. TRANSLATION: ppsspp
@@ -16738,7 +16738,7 @@ msgstr "Hirukia"
 
 #. TRANSLATION: model2emu
 msgctxt "game_options"
-msgid "Tries to guess Per-vertex colour (gouraud) from the Model2 per-poly information (flat)."
+msgid "Tries to guess Per-vertex color (gouraud) from the Model2 per-poly information (flat)."
 msgstr "Erpin bakoitzeko kolorea (gouraud) asmatzen saiatzen da Model2-ko poligonoko informaziotik (laua)."
 
 #. TRANSLATION: openjk, openmohaa
@@ -16768,7 +16768,7 @@ msgstr "Buffer hirukoitza"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "True Colour"
+msgid "True Color"
 msgstr "Benetazko Kolorea"
 
 #. TRANSLATION: xenia, xenia-canary
@@ -18902,7 +18902,7 @@ msgstr "horia/urdina"
 #~ msgstr "GAITU MIPMAPPING-A"
 
 #~ msgctxt "game_options"
-#~ msgid "ENABLE TRUE COLOUR"
+#~ msgid "ENABLE TRUE COLOR"
 #~ msgstr "GAITU BENETAZKO KOLOREA"
 
 #~ msgctxt "game_options"

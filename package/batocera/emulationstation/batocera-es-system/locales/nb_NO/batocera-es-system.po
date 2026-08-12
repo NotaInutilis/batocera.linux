@@ -3043,7 +3043,7 @@ msgstr "AltWFC (172.104.88.237)"
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
-msgid "Alternative Coloured Dot Matrix Display (needs additional file)."
+msgid "Alternative Colored Dot Matrix Display (needs additional file)."
 msgstr "Alternativ farget punktmatriseskjerm (krever ekstra fil)."
 
 #. TRANSLATION: vpinball
@@ -4444,12 +4444,12 @@ msgstr "FARGEGIVNING"
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "COLOUR DEPTH"
+msgid "COLOR DEPTH"
 msgstr "FARGEDYBDE"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "COLOUR MODE"
+msgid "COLOR MODE"
 msgstr "FARGEMODUS"
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -4771,7 +4771,7 @@ msgstr ""
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT COLOUR"
+msgid "CRT COLOR"
 msgstr "CRT FARGE"
 
 #. TRANSLATION: libretro/o2em
@@ -4796,7 +4796,7 @@ msgstr "CRT-BRYTERE"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT-like colour adaption. Requires New 3D engine."
+msgid "CRT-like color adaption. Requires New 3D engine."
 msgstr "CRT-lignende fargetilpasning. Krever ny 3D-motor."
 
 #. TRANSLATION: citron
@@ -5348,7 +5348,7 @@ msgstr ""
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "Choose the emulated colour depth."
+msgid "Choose the emulated color depth."
 msgstr "Velg emulert fargedybde."
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -5414,7 +5414,7 @@ msgstr ""
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "Choose the texture colour depth."
+msgid "Choose the texture color depth."
 msgstr ""
 
 #. TRANSLATION: openjk, openmohaa
@@ -5447,7 +5447,7 @@ msgstr ""
 msgctxt "game_options"
 msgid ""
 "Choose to render high definition graphics textures. Requires OpenGL, True "
-"Colour and the enhanced.gob file."
+"Color and the enhanced.gob file."
 msgstr ""
 "Velg å gjengi høydefinisjonsgrafikkteksturer. Krever OpenGL, True Color og "
 "filen enhanced.gob."
@@ -7956,7 +7956,7 @@ msgstr "RASK DISKOVERFØRINGSHASTIGHET"
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "FAVOURITE COLOUR"
+msgid "FAVORITE COLOR"
 msgstr "FAVORITTFARGE"
 
 #. TRANSLATION: wine
@@ -13890,7 +13890,7 @@ msgstr "RGB (skarpt bilde)"
 
 #. TRANSLATION: libretro/hatarib
 msgctxt "game_options"
-msgid "RGB Colour Low/Medium-Resolution"
+msgid "RGB Color Low/Medium-Resolution"
 msgstr "RGB-farge med lav/middels oppløsning"
 
 #. TRANSLATION: citron
@@ -14044,7 +14044,7 @@ msgstr "Reduser hakking som oppstår ved kompilering av shaders."
 #. TRANSLATION: libretro/pcsx2, pcsx2
 msgctxt "game_options"
 msgid ""
-"Reduces banding between colours and improves the preceived colour depth."
+"Reduces banding between colors and improves the preceived color depth."
 msgstr "Reduserer bånd mellom fargene og forbedrer den opplevde fargedybden."
 
 #. TRANSLATION: rpcs3
@@ -16531,7 +16531,7 @@ msgstr ""
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "TEXTURE COLOUR DEPTH"
+msgid "TEXTURE COLOR DEPTH"
 msgstr ""
 
 #. TRANSLATION: openmohaa
@@ -16711,7 +16711,7 @@ msgstr "TRIPPEL BUFRING"
 
 #. TRANSLATION: duckstation
 msgctxt "game_options"
-msgid "TRUE COLOUR RENDERING"
+msgid "TRUE COLOR RENDERING"
 msgstr "EKTE FARGEGJENGIVELSE"
 
 #. TRANSLATION: libretro/hatarib
@@ -16928,7 +16928,7 @@ msgstr ""
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "The theme colour of the emulated console."
+msgid "The theme color of the emulated console."
 msgstr "Temafargen til den emulerte konsollen."
 
 #. TRANSLATION: ppsspp
@@ -17161,7 +17161,7 @@ msgstr "Triangel"
 #. TRANSLATION: model2emu
 msgctxt "game_options"
 msgid ""
-"Tries to guess Per-vertex colour (gouraud) from the Model2 per-poly "
+"Tries to guess Per-vertex color (gouraud) from the Model2 per-poly "
 "information (flat)."
 msgstr ""
 "Prøver å gjette farge per vertex (gouraud) ut fra Model2 per-poly-"
@@ -17194,8 +17194,8 @@ msgstr "Trippel bufring"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "True Colour"
-msgstr "True Colour"
+msgid "True Color"
+msgstr "True Color"
 
 #. TRANSLATION: xenia, xenia-canary
 msgctxt "game_options"
@@ -19426,7 +19426,7 @@ msgstr "gul/blå"
 #~ msgstr "AKTIVERE MIPMAPPING"
 
 #~ msgctxt "game_options"
-#~ msgid "ENABLE TRUE COLOUR"
+#~ msgid "ENABLE TRUE COLOR"
 #~ msgstr "AKTIVERE EKTE FARGER"
 
 #~ msgctxt "game_options"

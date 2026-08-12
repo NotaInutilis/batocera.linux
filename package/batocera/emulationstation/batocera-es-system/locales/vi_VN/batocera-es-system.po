@@ -3049,7 +3049,7 @@ msgstr "AltWFC (172.104.88.237)"
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
-msgid "Alternative Coloured Dot Matrix Display (needs additional file)."
+msgid "Alternative Colored Dot Matrix Display (needs additional file)."
 msgstr "Hiển thị ma trận điểm màu thay thế (cần thêm tệp)."
 
 #. TRANSLATION: vpinball
@@ -4453,12 +4453,12 @@ msgstr "MÀU SẮC"
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "COLOUR DEPTH"
+msgid "COLOR DEPTH"
 msgstr "ĐỘ SÂU MÀU"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "COLOUR MODE"
+msgid "COLOR MODE"
 msgstr "CHẾ ĐỘ MÀU"
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -4780,7 +4780,7 @@ msgstr ""
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT COLOUR"
+msgid "CRT COLOR"
 msgstr "MÀU CRT"
 
 #. TRANSLATION: libretro/o2em
@@ -4805,7 +4805,7 @@ msgstr "CRT SWITCHRES"
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
-msgid "CRT-like colour adaption. Requires New 3D engine."
+msgid "CRT-like color adaption. Requires New 3D engine."
 msgstr "Điều chỉnh màu giống như CRT. Yêu cầu công cụ 3D mới."
 
 #. TRANSLATION: citron
@@ -5363,7 +5363,7 @@ msgstr ""
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "Choose the emulated colour depth."
+msgid "Choose the emulated color depth."
 msgstr "Chọn độ sâu màu mô phỏng."
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
@@ -5429,7 +5429,7 @@ msgstr ""
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "Choose the texture colour depth."
+msgid "Choose the texture color depth."
 msgstr ""
 
 #. TRANSLATION: openjk, openmohaa
@@ -5461,7 +5461,7 @@ msgstr ""
 msgctxt "game_options"
 msgid ""
 "Choose to render high definition graphics textures. Requires OpenGL, True "
-"Colour and the enhanced.gob file."
+"Color and the enhanced.gob file."
 msgstr ""
 "Chọn để hiển thị kết cấu đồ họa độ nét cao. Yêu cầu OpenGL, True Color và "
 "tệp nâng cao.gob."
@@ -7982,7 +7982,7 @@ msgstr "FAST DISK TRANSFER RATE"
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "FAVOURITE COLOUR"
+msgid "FAVORITE COLOR"
 msgstr "MÀU YÊU THÍCH"
 
 #. TRANSLATION: wine
@@ -13920,7 +13920,7 @@ msgstr "RGB (hình ảnh sắc nét)"
 
 #. TRANSLATION: libretro/hatarib
 msgctxt "game_options"
-msgid "RGB Colour Low/Medium-Resolution"
+msgid "RGB Color Low/Medium-Resolution"
 msgstr "Màu RGB Độ phân giải thấp/trung bình"
 
 #. TRANSLATION: citron
@@ -14072,7 +14072,7 @@ msgstr "Giảm tình trạng giật hình xảy ra khi biên dịch trình đổ
 #. TRANSLATION: libretro/pcsx2, pcsx2
 msgctxt "game_options"
 msgid ""
-"Reduces banding between colours and improves the preceived colour depth."
+"Reduces banding between colors and improves the preceived color depth."
 msgstr "Giảm dải giữa các màu và cải thiện độ sâu màu nhận được."
 
 #. TRANSLATION: rpcs3
@@ -16568,7 +16568,7 @@ msgstr ""
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "TEXTURE COLOUR DEPTH"
+msgid "TEXTURE COLOR DEPTH"
 msgstr ""
 
 #. TRANSLATION: openmohaa
@@ -16748,7 +16748,7 @@ msgstr "TRIPLE BUFFERING"
 
 #. TRANSLATION: duckstation
 msgctxt "game_options"
-msgid "TRUE COLOUR RENDERING"
+msgid "TRUE COLOR RENDERING"
 msgstr "KẾT XUẤT MÀU SẮC THẬT"
 
 #. TRANSLATION: libretro/hatarib
@@ -16963,7 +16963,7 @@ msgstr ""
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "The theme colour of the emulated console."
+msgid "The theme color of the emulated console."
 msgstr "Màu chủ đề của bảng điều khiển mô phỏng."
 
 #. TRANSLATION: ppsspp
@@ -17196,7 +17196,7 @@ msgstr "Triangle"
 #. TRANSLATION: model2emu
 msgctxt "game_options"
 msgid ""
-"Tries to guess Per-vertex colour (gouraud) from the Model2 per-poly "
+"Tries to guess Per-vertex color (gouraud) from the Model2 per-poly "
 "information (flat)."
 msgstr ""
 "Cố gắng đoán màu Per-vertex (gouraud) từ Model2 per-poly information (flat)."
@@ -17228,7 +17228,7 @@ msgstr "Bộ đệm ba"
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "True Colour"
+msgid "True Color"
 msgstr "Màu thật"
 
 #. TRANSLATION: xenia, xenia-canary
