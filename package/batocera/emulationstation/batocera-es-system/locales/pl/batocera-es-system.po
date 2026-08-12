@@ -1452,7 +1452,7 @@ msgstr "3x natywnej (1920x1584) dla 1080p"
 #. TRANSLATION: libretro/pcsx2, pcsx2
 msgctxt "game_options"
 msgid "3x Native (~1080p)"
-msgstr "3x natywnej  (~1080p)"
+msgstr "3x natywnej (~1080p)"
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
@@ -2232,7 +2232,7 @@ msgstr "9x natywnej (~3240p)"
 #. TRANSLATION: libretro/pcsx2
 msgctxt "game_options"
 msgid ""
-"A small  number of games will have compatibility problems with this enabled."
+"A small number of games will have compatibility problems with this enabled."
 msgstr ""
 "Niewielka liczba gier będzie miała problemy z kompatybilnością po włączeniu "
 "tej opcji."
@@ -7315,7 +7315,7 @@ msgstr "Włącz dla większej płynności, wyłącz w przypadku zrywania ekranu.
 #. TRANSLATION: lindbergh-loader
 msgctxt "game_options"
 msgid "Enable free play for supported games."
-msgstr "Włącz Free Play  w obsługiwanych grach."
+msgstr "Włącz Free Play w obsługiwanych grach."
 
 #. TRANSLATION: openjkdf2
 msgctxt "game_options"
@@ -10418,7 +10418,7 @@ msgstr "Joypad Auto"
 
 #. TRANSLATION: libretro/stella
 msgctxt "game_options"
-msgid "Joypad sensitivity for paddles. Core default  (3)."
+msgid "Joypad sensitivity for paddles. Core default (3)."
 msgstr "Czułość kontrolera dla paddle. Domyślna wartość (3)."
 
 #. TRANSLATION: libretro/melondsds, libretro/puae, libretro/puae2021, libretro/vice_x128, libretro/vice_x64, ...
@@ -15603,7 +15603,7 @@ msgstr "Strzał"
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
 msgid "Shoot Xterm"
-msgstr "Strzał  Xterm'a"
+msgstr "Strzał Xterm'a"
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
@@ -17992,10 +17992,10 @@ msgstr ""
 #. TRANSLATION: libretro/dice
 msgctxt "game_options"
 msgid ""
-"Use the system mouse pointer as paddle controller 1.  Does not let you "
+"Use the system mouse pointer as paddle controller 1. Does not let you "
 "choose a specific mouse if you have several."
 msgstr ""
-"Używanie wskaźnika myszy systemowej jako kontrolera paddle 1.  Nie pozwala "
+"Używanie wskaźnika myszy systemowej jako kontrolera paddle 1. Nie pozwala "
 "wybrać konkretnej myszy, jeśli masz ich kilka."
 
 #. TRANSLATION: libretro/melondsds
@@ -19581,7 +19581,7 @@ msgstr "żółty/niebieski"
 
 #~ msgctxt "game_options"
 #~ msgid ""
-#~ "A small  number of games will ahve compatibility problems with this "
+#~ "A small number of games will ahve compatibility problems with this "
 #~ "enabled."
 #~ msgstr ""
 #~ "Niewielka liczba gier będzie miała problemy z kompatybilnością po "

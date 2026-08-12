@@ -2228,7 +2228,7 @@ msgstr "9x Nativo (~3240p)"
 #. TRANSLATION: libretro/pcsx2
 msgctxt "game_options"
 msgid ""
-"A small  number of games will have compatibility problems with this enabled."
+"A small number of games will have compatibility problems with this enabled."
 msgstr ""
 "Um pequeno número de jogos terá problemas de compatibilidade com esta opção "
 "ativada."
@@ -10390,7 +10390,7 @@ msgstr "Comando Automático"
 
 #. TRANSLATION: libretro/stella
 msgctxt "game_options"
-msgid "Joypad sensitivity for paddles. Core default  (3)."
+msgid "Joypad sensitivity for paddles. Core default (3)."
 msgstr "Sensibilidade do comando para paddles. Padrão do core (3)."
 
 #. TRANSLATION: libretro/melondsds, libretro/puae, libretro/puae2021, libretro/vice_x128, libretro/vice_x64, ...
@@ -17046,7 +17046,7 @@ msgid ""
 "There is generally no point in going beyond 4x texture scaling unless you "
 "are running at very high resolutions."
 msgstr ""
-"Geralmente não faz sentido ir além da escala de textura 4x, a não ser que  "
+"Geralmente não faz sentido ir além da escala de textura 4x, a não ser que "
 "estejam a ser executados em resoluções muito elevadas."
 
 #. TRANSLATION: openmsx
@@ -17969,7 +17969,7 @@ msgstr ""
 #. TRANSLATION: libretro/dice
 msgctxt "game_options"
 msgid ""
-"Use the system mouse pointer as paddle controller 1.  Does not let you "
+"Use the system mouse pointer as paddle controller 1. Does not let you "
 "choose a specific mouse if you have several."
 msgstr ""
 "Usar o ponteiro do rato do sistema como comando de paddle 1. Não lhe permite "

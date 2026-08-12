@@ -2232,7 +2232,7 @@ msgstr "9x Doğal (~3240p)"
 #. TRANSLATION: libretro/pcsx2
 msgctxt "game_options"
 msgid ""
-"A small  number of games will have compatibility problems with this enabled."
+"A small number of games will have compatibility problems with this enabled."
 msgstr ""
 "Bu özellik etkinleştirildiğinde, az sayıda oyunda uyumluluk sorunları "
 "yaşanabilir."
@@ -10396,7 +10396,7 @@ msgstr "Joypad Otomatik"
 
 #. TRANSLATION: libretro/stella
 msgctxt "game_options"
-msgid "Joypad sensitivity for paddles. Core default  (3)."
+msgid "Joypad sensitivity for paddles. Core default (3)."
 msgstr ""
 
 #. TRANSLATION: libretro/melondsds, libretro/puae, libretro/puae2021, libretro/vice_x128, libretro/vice_x64, ...
@@ -17958,10 +17958,10 @@ msgstr ""
 #. TRANSLATION: libretro/dice
 msgctxt "game_options"
 msgid ""
-"Use the system mouse pointer as paddle controller 1.  Does not let you "
+"Use the system mouse pointer as paddle controller 1. Does not let you "
 "choose a specific mouse if you have several."
 msgstr ""
-"1. sistem fare işaretçisini pedal kontrolcüsü olarak kullan.  Birden fazla "
+"1. sistem fare işaretçisini pedal kontrolcüsü olarak kullan. Birden fazla "
 "fareniz varsa belirli bir fareyi seçmenize izin vermez."
 
 #. TRANSLATION: libretro/melondsds

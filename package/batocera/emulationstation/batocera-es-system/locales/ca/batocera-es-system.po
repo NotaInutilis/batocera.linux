@@ -1456,7 +1456,7 @@ msgstr "Natiu x3 (~1080p)"
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
 msgid "3x native (768 x 576)"
-msgstr "3x  nadiu (768 x 576)"
+msgstr "3x nadiu (768 x 576)"
 
 #. TRANSLATION: libretro/potator
 msgctxt "game_options"
@@ -2231,7 +2231,7 @@ msgstr "9x Nadiu (~3240p)"
 #. TRANSLATION: libretro/pcsx2
 msgctxt "game_options"
 msgid ""
-"A small  number of games will have compatibility problems with this enabled."
+"A small number of games will have compatibility problems with this enabled."
 msgstr ""
 "Un petit nombre de jocs tindran problemes de compatibilitat amb aquesta "
 "opció habilitada."
@@ -2819,7 +2819,7 @@ msgid ""
 "Adjust mixing of CD audio. In MSU-MD, cartridge-sourced sound effects are "
 "not affected."
 msgstr ""
-"Ajustar barreja d’àudio de CD.  En el MSU-MD, no es veuen afectats els "
+"Ajustar barreja d’àudio de CD. En el MSU-MD, no es veuen afectats els "
 "efectes sonors del cartutx."
 
 #. TRANSLATION: amiberry
@@ -5007,7 +5007,7 @@ msgstr "Pot prevenir salts d’àudio al prémer botons quan s’usa pre-avança
 #. TRANSLATION: rpcs3
 msgctxt "game_options"
 msgid "Can reduce crackle and stutter but increases audio latency."
-msgstr "Pot reduïr els salts  però incrementa la latència d'àudio."
+msgstr "Pot reduïr els salts però incrementa la latència d'àudio."
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
@@ -10390,7 +10390,7 @@ msgstr "Joypad Automàtic"
 
 #. TRANSLATION: libretro/stella
 msgctxt "game_options"
-msgid "Joypad sensitivity for paddles. Core default  (3)."
+msgid "Joypad sensitivity for paddles. Core default (3)."
 msgstr ""
 "Sensibilitat el comandament per botons giratoris (paddles). Per defecte "
 "nucli (3)."
@@ -17965,7 +17965,7 @@ msgstr ""
 #. TRANSLATION: libretro/dice
 msgctxt "game_options"
 msgid ""
-"Use the system mouse pointer as paddle controller 1.  Does not let you "
+"Use the system mouse pointer as paddle controller 1. Does not let you "
 "choose a specific mouse if you have several."
 msgstr ""
 "Usa el punter del ratolí com a botó rotatori (paddle) 1. No permet escollir "

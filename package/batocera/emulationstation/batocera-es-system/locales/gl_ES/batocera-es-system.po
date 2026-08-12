@@ -2231,7 +2231,7 @@ msgstr "9x Nativo (~3240p)"
 #. TRANSLATION: libretro/pcsx2
 msgctxt "game_options"
 msgid ""
-"A small  number of games will have compatibility problems with this enabled."
+"A small number of games will have compatibility problems with this enabled."
 msgstr ""
 "Algúns xogos poden ter problemas de compatibilidade con esta opción activada."
 
@@ -5014,7 +5014,7 @@ msgstr "Pode reducir o crepitar e o tartamudeo pero aumenta a latencia de audio.
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
 msgid "Can sharpen images in lower resolutions."
-msgstr "Pode mellorar a  nitedez das imaxes en resolucións máis baixas."
+msgstr "Pode mellorar a nitedez das imaxes en resolucións máis baixas."
 
 #. TRANSLATION: sonic2013, soniccd
 msgctxt "game_options"
@@ -10387,10 +10387,10 @@ msgstr "Mando Básico Auto"
 
 #. TRANSLATION: libretro/stella
 msgctxt "game_options"
-msgid "Joypad sensitivity for paddles. Core default  (3)."
+msgid "Joypad sensitivity for paddles. Core default (3)."
 msgstr ""
 "Sensibilidade do mando básico para os mandos de roda. Valor predeterminado do "
-"núcleo  (3)."
+"núcleo (3)."
 
 #. TRANSLATION: libretro/melondsds, libretro/puae, libretro/puae2021, libretro/vice_x128, libretro/vice_x64, ...
 msgctxt "game_options"
@@ -17955,7 +17955,7 @@ msgstr ""
 #. TRANSLATION: libretro/dice
 msgctxt "game_options"
 msgid ""
-"Use the system mouse pointer as paddle controller 1.  Does not let you choose "
+"Use the system mouse pointer as paddle controller 1. Does not let you choose "
 "a specific mouse if you have several."
 msgstr ""
 "Emprega o punteiro do rato do sistema como controlador do mando de roda 1. Non "

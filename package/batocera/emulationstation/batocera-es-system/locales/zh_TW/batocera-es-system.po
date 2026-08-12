@@ -2230,7 +2230,7 @@ msgstr "9x 原生解析度 (~3240p)"
 #. TRANSLATION: libretro/pcsx2
 msgctxt "game_options"
 msgid ""
-"A small  number of games will have compatibility problems with this enabled."
+"A small number of games will have compatibility problems with this enabled."
 msgstr "啟用此功能後，少部分遊戲可能會出現相容性問題。"
 
 #. TRANSLATION: libretro/puae, libretro/puae2021
@@ -10165,7 +10165,7 @@ msgstr "手把自動"
 
 #. TRANSLATION: libretro/stella
 msgctxt "game_options"
-msgid "Joypad sensitivity for paddles. Core default  (3)."
+msgid "Joypad sensitivity for paddles. Core default (3)."
 msgstr ""
 
 #. TRANSLATION: libretro/melondsds, libretro/puae, libretro/puae2021, libretro/vice_x128, libretro/vice_x64, ...
@@ -17563,7 +17563,7 @@ msgstr "使用與獨立MAME相同的藝術路徑-如果使用裝飾或著色器�
 #. TRANSLATION: libretro/dice
 msgctxt "game_options"
 msgid ""
-"Use the system mouse pointer as paddle controller 1.  Does not let you "
+"Use the system mouse pointer as paddle controller 1. Does not let you "
 "choose a specific mouse if you have several."
 msgstr ""
 "使用系統滑鼠指針作為踏板控制器1。如果您有多個滑鼠，不會讓您選擇特定的滑鼠。"

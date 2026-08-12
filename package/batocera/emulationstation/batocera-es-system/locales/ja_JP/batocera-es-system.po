@@ -2079,7 +2079,7 @@ msgstr "開閉の状態を表示"
 #. TRANSLATION: libretro/dice
 msgctxt "game_options"
 msgid ""
-"Use the system mouse pointer as paddle controller 1.  Does not let you "
+"Use the system mouse pointer as paddle controller 1. Does not let you "
 "choose a specific mouse if you have several."
 msgstr ""
 "マウス ポインターをパドル 1 として使用します。複数のマウスがある場合、特定の"
@@ -6779,7 +6779,7 @@ msgstr "BIOS 高速起動(ロゴスキップ)"
 #. TRANSLATION: libretro/pcsx2
 msgctxt "game_options"
 msgid ""
-"A small  number of games will have compatibility problems with this enabled."
+"A small number of games will have compatibility problems with this enabled."
 msgstr "これを有効にすると、少数のゲームで互換性の問題が発生します"
 
 #. TRANSLATION: libretro/pcsx2
@@ -7292,7 +7292,7 @@ msgstr "A500+ (1MB チップ)"
 #. TRANSLATION: libretro/puae, libretro/puae2021
 msgctxt "game_options"
 msgid "A600 (2MB Chip + 8MB Fast)"
-msgstr "A600  (2MB チップ+ 8MB[速])"
+msgstr "A600 (2MB チップ+ 8MB[速])"
 
 #. TRANSLATION: libretro/puae, libretro/puae2021
 msgctxt "game_options"
@@ -8173,7 +8173,7 @@ msgstr "パドルのマウス感度（コアの標準=10）"
 
 #. TRANSLATION: libretro/stella
 msgctxt "game_options"
-msgid "Joypad sensitivity for paddles. Core default  (3)."
+msgid "Joypad sensitivity for paddles. Core default (3)."
 msgstr "ジョイパッドのパドル感度（コアの標準=3）"
 
 #. TRANSLATION: libretro/stella
@@ -10499,7 +10499,7 @@ msgstr "メモリ使用量の目安の表示; ( RAM| VRAM)"
 #. TRANSLATION: duckstation
 msgctxt "game_options"
 msgid "Per 0.05s, 5s total (550MB|100MB)"
-msgstr "0.05 秒間隔、合計  5秒 (550MB|100MB)"
+msgstr "0.05 秒間隔、合計 5秒 (550MB|100MB)"
 
 #. TRANSLATION: duckstation
 msgctxt "game_options"

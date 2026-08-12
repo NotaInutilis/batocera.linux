@@ -2226,7 +2226,7 @@ msgstr "9x Native (~3240p)"
 #. TRANSLATION: libretro/pcsx2
 msgctxt "game_options"
 msgid ""
-"A small  number of games will have compatibility problems with this enabled."
+"A small number of games will have compatibility problems with this enabled."
 msgstr ""
 "Néhány játéknál kompatibilitási problémák adódhatnak, ha ez engedélyezve van."
 
@@ -10424,7 +10424,7 @@ msgstr "Joypad Auto"
 
 #. TRANSLATION: libretro/stella
 msgctxt "game_options"
-msgid "Joypad sensitivity for paddles. Core default  (3)."
+msgid "Joypad sensitivity for paddles. Core default (3)."
 msgstr "Joypad érzékenység a pedálokhoz. Alapértelmezés (3)."
 
 #. TRANSLATION: libretro/melondsds, libretro/puae, libretro/puae2021, libretro/vice_x128, libretro/vice_x64, ...
@@ -12953,7 +12953,7 @@ msgstr "ANALÓG LAPATKAR ÉRZÉKENYSÉGE"
 #. TRANSLATION: libretro/dice
 msgctxt "game_options"
 msgid "PADDLE D-PAD SENSITIVITY"
-msgstr "D-PAD LAPÁT  ÉRZÉKENYSÉGE"
+msgstr "D-PAD LAPÁT ÉRZÉKENYSÉGE"
 
 #. TRANSLATION: libretro/stella
 msgctxt "game_options"
@@ -16075,7 +16075,7 @@ msgstr "Egyes játékok a 2-es portról fogadják a bemenetet az 1-es helyett."
 #. TRANSLATION: libretro/vice_x128, libretro/vice_x64, libretro/vice_x64sc
 msgctxt "game_options"
 msgid "Some games and homebrews require more RAM"
-msgstr "Egyes játékokhoz és házi készítésű programokhoz  több RAM szükséges"
+msgstr "Egyes játékokhoz és házi készítésű programokhoz több RAM szükséges"
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
@@ -18015,7 +18015,7 @@ msgstr ""
 #. TRANSLATION: libretro/dice
 msgctxt "game_options"
 msgid ""
-"Use the system mouse pointer as paddle controller 1.  Does not let you "
+"Use the system mouse pointer as paddle controller 1. Does not let you "
 "choose a specific mouse if you have several."
 msgstr ""
 "A rendszer egérmutatójának használata lapátvezérlőként 1. Nem engedi "
@@ -19654,7 +19654,7 @@ msgstr "sárga/kék"
 
 #~ msgctxt "keys_files"
 #~ msgid "Exit Dosbox-X"
-#~ msgstr "Kilépés a  Dosbox-X-ből"
+#~ msgstr "Kilépés a Dosbox-X-ből"
 
 #~ msgctxt "keys_files"
 #~ msgid "Exit Drastic"

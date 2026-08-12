@@ -2230,7 +2230,7 @@ msgstr "9x 原生 (~3240p)"
 #. TRANSLATION: libretro/pcsx2
 msgctxt "game_options"
 msgid ""
-"A small  number of games will have compatibility problems with this enabled."
+"A small number of games will have compatibility problems with this enabled."
 msgstr "启用此功能后少数游戏将出现兼容性问题."
 
 #. TRANSLATION: libretro/puae, libretro/puae2021
@@ -10153,7 +10153,7 @@ msgstr "6键手柄 + 4-WayPlay"
 #. TRANSLATION: libretro/genesisplusgx-expanded
 msgctxt "game_options"
 msgid "Joypad 6 Button + Teamplayer"
-msgstr "6键手柄  + Teamplayer"
+msgstr "6键手柄 + Teamplayer"
 
 #. TRANSLATION: libretro/genesisplusgx-expanded
 msgctxt "game_options"
@@ -10162,8 +10162,8 @@ msgstr "手柄（自动）"
 
 #. TRANSLATION: libretro/stella
 msgctxt "game_options"
-msgid "Joypad sensitivity for paddles. Core default  (3)."
-msgstr "摇杆的灵敏度. 核心默认值  (3)."
+msgid "Joypad sensitivity for paddles. Core default (3)."
+msgstr "摇杆的灵敏度. 核心默认值 (3)."
 
 #. TRANSLATION: libretro/melondsds, libretro/puae, libretro/puae2021, libretro/vice_x128, libretro/vice_x64, ...
 msgctxt "game_options"
@@ -17574,10 +17574,10 @@ msgstr "使用与独立MAME相同的艺术路径 - 如果使用装饰或着色�
 #. TRANSLATION: libretro/dice
 msgctxt "game_options"
 msgid ""
-"Use the system mouse pointer as paddle controller 1.  Does not let you "
+"Use the system mouse pointer as paddle controller 1. Does not let you "
 "choose a specific mouse if you have several."
 msgstr ""
-"将系统鼠标指针用作摇杆控制器1.  若连接多个鼠标则此设置不允许选择特定设备."
+"将系统鼠标指针用作摇杆控制器1. 若连接多个鼠标则此设置不允许选择特定设备."
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
@@ -18973,7 +18973,7 @@ msgstr "黄色/蓝色"
 
 #~ msgctxt "game_options"
 #~ msgid ""
-#~ "A small  number of games will ahve compatibility problems with this "
+#~ "A small number of games will ahve compatibility problems with this "
 #~ "enabled."
 #~ msgstr "启用此功能后少数游戏将出现兼容性问题."
 

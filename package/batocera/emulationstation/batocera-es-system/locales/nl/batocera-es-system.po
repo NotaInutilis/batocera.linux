@@ -2228,7 +2228,7 @@ msgstr "9x Native (~3240p)"
 #. TRANSLATION: libretro/pcsx2
 msgctxt "game_options"
 msgid ""
-"A small  number of games will have compatibility problems with this enabled."
+"A small number of games will have compatibility problems with this enabled."
 msgstr ""
 "Een klein aantal games zal compatibiliteitsproblemen ondervinden als deze "
 "optie ingeschakeld is."
@@ -10418,7 +10418,7 @@ msgstr "Joypad Auto"
 
 #. TRANSLATION: libretro/stella
 msgctxt "game_options"
-msgid "Joypad sensitivity for paddles. Core default  (3)."
+msgid "Joypad sensitivity for paddles. Core default (3)."
 msgstr "Joypadgevoeligheid voor paddles. Standaardinstelling van de kern (3)."
 
 #. TRANSLATION: libretro/melondsds, libretro/puae, libretro/puae2021, libretro/vice_x128, libretro/vice_x64, ...
@@ -18004,7 +18004,7 @@ msgstr ""
 #. TRANSLATION: libretro/dice
 msgctxt "game_options"
 msgid ""
-"Use the system mouse pointer as paddle controller 1.  Does not let you "
+"Use the system mouse pointer as paddle controller 1. Does not let you "
 "choose a specific mouse if you have several."
 msgstr ""
 "Gebruik de systeem muisaanwijzer als paddle controller 1. U kunt geen "

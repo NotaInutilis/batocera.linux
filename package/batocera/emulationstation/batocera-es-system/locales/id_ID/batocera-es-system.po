@@ -1161,7 +1161,7 @@ msgstr "2nd VMU (Default / Bawaan)"
 #. TRANSLATION: redream
 msgctxt "game_options"
 msgid "2x (1280x960) (Default)"
-msgstr "2x (1280x960)  (Default / Bawaan)"
+msgstr "2x (1280x960) (Default / Bawaan)"
 
 #. TRANSLATION: citron, ryujinx
 msgctxt "game_options"
@@ -1206,7 +1206,7 @@ msgstr "2x SSAA"
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
 msgid "2x native (512 x 384)"
-msgstr "2x native  / asli (512 x 384)"
+msgstr "2x native / asli (512 x 384)"
 
 #. TRANSLATION: libretro/fceumm
 msgctxt "game_options"
@@ -2226,7 +2226,7 @@ msgstr "9x Native / Asli (~3240p)"
 #. TRANSLATION: libretro/pcsx2
 msgctxt "game_options"
 msgid ""
-"A small  number of games will have compatibility problems with this enabled."
+"A small number of games will have compatibility problems with this enabled."
 msgstr ""
 "Sebagian kecil game akan mengalami masalah kompatibilitas jika fitur ini diaktifkan."
 
@@ -4067,7 +4067,7 @@ msgstr "Kedua-nya"
 #. TRANSLATION: libretro/dosbox_pure
 msgctxt "game_options"
 msgid "Both Joysticks (4 Axes, 4 Btns)"
-msgstr "Joysticks Kedua-nya(4 Sumbu, 4  Tombol)"
+msgstr "Joysticks Kedua-nya(4 Sumbu, 4 Tombol)"
 
 #. TRANSLATION: soniccd
 msgctxt "game_options"
@@ -9738,7 +9738,7 @@ msgctxt "game_options"
 msgid ""
 "How much RAM the emulated Mac will have installed (Mac IIx & Mac LC 3 only)"
 msgstr ""
-"Berapa banyak emulasi RAM  Mac yang sudah terpasang (hanya Mac IIx & Mac LC "
+"Berapa banyak emulasi RAM Mac yang sudah terpasang (hanya Mac IIx & Mac LC "
 "3)"
 
 #. TRANSLATION: melonds
@@ -10352,7 +10352,7 @@ msgstr "joypad Otomatis"
 
 #. TRANSLATION: libretro/stella
 msgctxt "game_options"
-msgid "Joypad sensitivity for paddles. Core default  (3)."
+msgid "Joypad sensitivity for paddles. Core default (3)."
 msgstr "Sensitivitas stik untuk kontroler paddle. Bawaan sistem (3)."
 
 #. TRANSLATION: libretro/melondsds, libretro/puae, libretro/puae2021, libretro/vice_x128, libretro/vice_x64, ...
@@ -10516,7 +10516,7 @@ msgid ""
 "Konami Justifier P2 is daisy chained from controller 2, appears as port 3 to "
 "system."
 msgstr ""
-"Konami Justifier P2 terkait pada  pengontrol 2, muncul sebagai port ke 3 "
+"Konami Justifier P2 terkait pada pengontrol 2, muncul sebagai port ke 3 "
 "sistem."
 
 #. TRANSLATION: libretro/genesisplusgx-expanded
@@ -12985,7 +12985,7 @@ msgstr "PCjr"
 #. TRANSLATION: libretro/mame, mame
 msgctxt "game_options"
 msgid "PDP-1 Paper Tape Reader Images"
-msgstr "PDP-1  Tape kertas pembaca gambar (image reader)"
+msgstr "PDP-1 Tape kertas pembaca gambar (image reader)"
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
@@ -17902,7 +17902,7 @@ msgstr ""
 #. TRANSLATION: libretro/dice
 msgctxt "game_options"
 msgid ""
-"Use the system mouse pointer as paddle controller 1.  Does not let you "
+"Use the system mouse pointer as paddle controller 1. Does not let you "
 "choose a specific mouse if you have several."
 msgstr ""
 "Gunakan penunjuk mouse sistem sebagai kontroler paddle 1."
@@ -19778,7 +19778,7 @@ msgstr "kuning/biru"
 
 #~ msgctxt "game_options"
 #~ msgid "mVU Flag Hack + MTVU"
-#~ msgstr "mVU Flag  + MTVU"
+#~ msgstr "mVU Flag + MTVU"
 
 #~ msgctxt "game_options"
 #~ msgid "mVU Flag Hack. May cause bad graphics (recommended)"
