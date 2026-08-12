@@ -2819,12 +2819,12 @@ msgstr "Upraviť režim kreslenia riadkov obrazovky."
 
 #. TRANSLATION: shared
 msgctxt "game_options"
-msgid "Adjust the cpu power frequency profile whilst in-game. Some systems will benefit from improved voltage handling."
+msgid "Adjust the CPU power frequency profile whilst in-game. Some systems will benefit from improved voltage handling."
 msgstr "Upravte profil frekvencie napájania CPU počas hry. Niektoré systémy budú mať úžitok z vylepšeného spracovania napätia."
 
 #. TRANSLATION: shared
 msgctxt "game_options"
-msgid "Adjust the cpu power profile whist on battery. Overwrites previous Power Mode(s)."
+msgid "Adjust the CPU power profile whist on battery. Overwrites previous Power Mode(s)."
 msgstr "Upravte profil napájania CPU pri behu na batérii. Prepíše predchádzajúce režimy napájania."
 
 #. TRANSLATION: vpinball
@@ -18566,7 +18566,7 @@ msgstr "žltá/modrá"
 #~ msgstr "ASCI"
 
 #~ msgctxt "game_options"
-#~ msgid "Adjust the cpu power profile while in-game."
+#~ msgid "Adjust the CPU power profile while in-game."
 #~ msgstr "Prispôsobiť silový profil CPU počas hry."
 
 #~ msgctxt "game_options"

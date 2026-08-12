@@ -2820,14 +2820,14 @@ msgstr ""
 #. TRANSLATION: shared
 msgctxt "game_options"
 msgid ""
-"Adjust the cpu power frequency profile whilst in-game. Some systems will "
+"Adjust the CPU power frequency profile whilst in-game. Some systems will "
 "benefit from improved voltage handling."
 msgstr ""
 
 #. TRANSLATION: shared
 msgctxt "game_options"
 msgid ""
-"Adjust the cpu power profile whist on battery. Overwrites previous Power "
+"Adjust the CPU power profile whist on battery. Overwrites previous Power "
 "Mode(s)."
 msgstr ""
 

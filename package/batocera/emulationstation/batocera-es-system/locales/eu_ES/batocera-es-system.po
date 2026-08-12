@@ -2820,14 +2820,14 @@ msgstr "Doitu pantaila lerro marrazte modua."
 #. TRANSLATION: shared
 msgctxt "game_options"
 msgid ""
-"Adjust the cpu power frequency profile whilst in-game. Some systems will benefit from improved voltage handling."
+"Adjust the CPU power frequency profile whilst in-game. Some systems will benefit from improved voltage handling."
 msgstr ""
 "Doitu puz potentzia maiztasun profila joko barruan. Sistema batzuk onura izango dute boltaia hobetuaren "
 "kudeaketarengatik"
 
 #. TRANSLATION: shared
 msgctxt "game_options"
-msgid "Adjust the cpu power profile whist on battery. Overwrites previous Power Mode(s)."
+msgid "Adjust the CPU power profile whist on battery. Overwrites previous Power Mode(s)."
 msgstr "Doitu puz potentzia profila joko barruan. Aurreko Potentzia Modua(k) gainidazten du"
 
 #. TRANSLATION: vpinball

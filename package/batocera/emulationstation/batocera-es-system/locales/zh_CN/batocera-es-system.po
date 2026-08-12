@@ -2823,16 +2823,16 @@ msgstr "调整屏幕线条绘制模式。"
 #. TRANSLATION: shared
 msgctxt "game_options"
 msgid ""
-"Adjust the cpu power frequency profile whilst in-game. Some systems will "
+"Adjust the CPU power frequency profile whilst in-game. Some systems will "
 "benefit from improved voltage handling."
-msgstr "在游戏中调整cpu电源频率配置文件. 一些系统将受益于改进的电压处理."
+msgstr "在游戏中调整CPU电源频率配置文件. 一些系统将受益于改进的电压处理."
 
 #. TRANSLATION: shared
 msgctxt "game_options"
 msgid ""
-"Adjust the cpu power profile whist on battery. Overwrites previous Power "
+"Adjust the CPU power profile whist on battery. Overwrites previous Power "
 "Mode(s)."
-msgstr "在使用电池的情况下调整cpu功率配置文件. 覆盖以前的电源模式."
+msgstr "在使用电池的情况下调整CPU功率配置文件. 覆盖以前的电源模式."
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
@@ -4662,7 +4662,7 @@ msgstr "CPU核心方式"
 #. TRANSLATION: dosbox
 msgctxt "game_options"
 msgid "CPU CYCLES"
-msgstr "cpu周期"
+msgstr "CPU周期"
 
 #. TRANSLATION: dosbox
 msgctxt "game_options"
@@ -18990,7 +18990,7 @@ msgstr "黄色/蓝色"
 #~ msgstr "ASCI"
 
 #~ msgctxt "game_options"
-#~ msgid "Adjust the cpu power profile while in-game."
+#~ msgid "Adjust the CPU power profile while in-game."
 #~ msgstr "游玩中调整CPU功率配置文件。"
 
 #~ msgctxt "game_options"

@@ -2823,14 +2823,14 @@ msgstr "調整螢幕線繪模式。"
 #. TRANSLATION: shared
 msgctxt "game_options"
 msgid ""
-"Adjust the cpu power frequency profile whilst in-game. Some systems will "
+"Adjust the CPU power frequency profile whilst in-game. Some systems will "
 "benefit from improved voltage handling."
 msgstr "遊戲中調整CPU頻率功耗，部分系統會因電壓處理改善而得益。"
 
 #. TRANSLATION: shared
 msgctxt "game_options"
 msgid ""
-"Adjust the cpu power profile whist on battery. Overwrites previous Power "
+"Adjust the CPU power profile whist on battery. Overwrites previous Power "
 "Mode(s)."
 msgstr "電池模式下調整CPU頻率功耗，將覆蓋之前的電源模式。"
 
