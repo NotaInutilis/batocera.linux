@@ -6507,7 +6507,7 @@ msgstr "磁盘镜像"
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
-msgid "Display on screen information like savestate, config warning etc..."
+msgid "Display on screen information like savestate, config warning, etc."
 msgstr "在屏幕上显示保存状态、配置警告等信息..."
 
 #. TRANSLATION: nds.drastic.keys

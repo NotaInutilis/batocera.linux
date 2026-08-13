@@ -11356,7 +11356,7 @@ msgstr "NxAGSS"
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
-msgid "Display on screen information like savestate, config warning etc..."
+msgid "Display on screen information like savestate, config warning, etc."
 msgstr "ステートセーブ、設定警告などの情報を画面に表示します"
 
 #. TRANSLATION: pcsx2

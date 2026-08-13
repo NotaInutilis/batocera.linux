@@ -6572,7 +6572,7 @@ msgstr "Obraz Disku"
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
-msgid "Display on screen information like savestate, config warning etc..."
+msgid "Display on screen information like savestate, config warning, etc."
 msgstr ""
 "Zobrazení informací na obrazovce, jako je uložení pozice, upozornění na "
 "konfiguraci atd..."

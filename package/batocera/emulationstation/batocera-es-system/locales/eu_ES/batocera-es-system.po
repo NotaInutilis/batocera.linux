@@ -6467,7 +6467,7 @@ msgstr "Disko Irudia"
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
-msgid "Display on screen information like savestate, config warning etc..."
+msgid "Display on screen information like savestate, config warning, etc."
 msgstr "Erakutsi pantaila informazioan gordetze egoerak bezala, konfigurazioa, oharrak, etabar..."
 
 #. TRANSLATION: nds.drastic.keys

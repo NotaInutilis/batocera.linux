@@ -6607,7 +6607,7 @@ msgstr "SCHIJFIMAGE"
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
-msgid "Display on screen information like savestate, config warning etc..."
+msgid "Display on screen information like savestate, config warning, etc."
 msgstr ""
 "Informatieweergave op het scherm zoals savestate, configuratiewaarschuwing "
 "enz..."

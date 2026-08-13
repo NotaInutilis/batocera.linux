@@ -6578,7 +6578,7 @@ msgstr "Disk Image"
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
-msgid "Display on screen information like savestate, config warning etc..."
+msgid "Display on screen information like savestate, config warning, etc."
 msgstr ""
 "Hiển thị thông tin lên màn hình như savestate, cảnh báo, cấu hình, v.v..."
 

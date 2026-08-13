@@ -6581,7 +6581,7 @@ msgstr "Disk Image"
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
-msgid "Display on screen information like savestate, config warning etc..."
+msgid "Display on screen information like savestate, config warning, etc."
 msgstr "Tampilkan informasi di layar seperti status penyimpanan (savestate), peringatan konfigurasi, dll."
 
 #. TRANSLATION: nds.drastic.keys

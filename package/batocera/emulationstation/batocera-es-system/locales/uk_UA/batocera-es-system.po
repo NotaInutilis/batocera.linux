@@ -6492,7 +6492,7 @@ msgstr ""
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
-msgid "Display on screen information like savestate, config warning etc..."
+msgid "Display on screen information like savestate, config warning, etc."
 msgstr ""
 
 #. TRANSLATION: nds.drastic.keys

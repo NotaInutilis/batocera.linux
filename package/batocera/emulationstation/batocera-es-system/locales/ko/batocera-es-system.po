@@ -6569,7 +6569,7 @@ msgstr "디스크 이미지"
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
-msgid "Display on screen information like savestate, config warning etc..."
+msgid "Display on screen information like savestate, config warning, etc."
 msgstr "저장 상태, 구성 경고 등의 정보를 화면에 표시합니다..."
 
 #. TRANSLATION: nds.drastic.keys

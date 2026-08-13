@@ -6419,7 +6419,7 @@ msgstr "Obraz disku"
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
-msgid "Display on screen information like savestate, config warning etc..."
+msgid "Display on screen information like savestate, config warning, etc."
 msgstr "Zobraziť informácie na obrazovke ako stav uloženia, varovania konfigurácie atď...Zobrazenie informácií na obrazovke, ako je stav uloženia, varovanie konfigurácie atď."
 
 #. TRANSLATION: nds.drastic.keys

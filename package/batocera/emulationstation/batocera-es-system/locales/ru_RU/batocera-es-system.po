@@ -6589,7 +6589,7 @@ msgstr "Образа диска"
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
-msgid "Display on screen information like savestate, config warning etc..."
+msgid "Display on screen information like savestate, config warning, etc."
 msgstr ""
 "Отображать на экране такой информации, как состояние сохранения, "
 "предупреждение о конфигурации и т.д.."

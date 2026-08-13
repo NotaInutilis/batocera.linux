@@ -6594,10 +6594,10 @@ msgstr "Imagine de disc"
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
-msgid "Display on screen information like savestate, config warning etc..."
+msgid "Display on screen information like savestate, config warning, etc."
 msgstr ""
 "Afișează informații pe ecran cum ar fi starea salvării, atenționări de "
-"configurație etc..."
+"configurație etc."
 
 #. TRANSLATION: nds.drastic.keys
 msgctxt "keys_files"

@@ -6623,7 +6623,7 @@ msgstr "Imagen de disco"
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
-msgid "Display on screen information like savestate, config warning etc..."
+msgid "Display on screen information like savestate, config warning, etc."
 msgstr ""
 "Muestra información en pantalla como estados de guardado, advertencia de "
 "configuración, etc."

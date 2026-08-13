@@ -6603,9 +6603,9 @@ msgstr "Imagem do Disco"
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
-msgid "Display on screen information like savestate, config warning etc..."
+msgid "Display on screen information like savestate, config warning, etc."
 msgstr ""
-"Mostrar informção no ecrã como savestates, avisos de configuração, etc..."
+"Mostrar informção no ecrã como savestates, avisos de configuração, etc."
 
 #. TRANSLATION: nds.drastic.keys
 msgctxt "keys_files"
