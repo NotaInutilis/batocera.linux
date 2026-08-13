@@ -777,7 +777,7 @@ msgstr ""
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
 msgctxt "game_options"
-msgid "Choose the emulated colour depth."
+msgid "Choose the emulated color depth."
 msgstr ""
 
 #. TRANSLATION: libretro/cap32, openjk, openmohaa
@@ -1650,7 +1650,7 @@ msgstr ""
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
-msgid "The theme colour of the emulated console."
+msgid "The theme color of the emulated console."
 msgstr ""
 
 #. TRANSLATION: libretro/melondsds
@@ -4267,7 +4267,7 @@ msgstr ""
 
 #. TRANSLATION: libretro/hatarib
 msgctxt "game_options"
-msgid "RGB Colour Low/Medium-Resolution"
+msgid "RGB Color Low/Medium-Resolution"
 msgstr ""
 
 #. TRANSLATION: libretro/hatarib
@@ -6865,7 +6865,7 @@ msgstr ""
 #. TRANSLATION: libretro/pcsx2, pcsx2
 msgctxt "game_options"
 msgid ""
-"Reduces banding between colours and improves the preceived colour depth."
+"Reduces banding between colors and improves the preceived color depth."
 msgstr ""
 
 #. TRANSLATION: libretro/pcsx2, pcsx2
@@ -16257,14 +16257,14 @@ msgstr ""
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
-msgid "True Colour"
+msgid "True Color"
 msgstr ""
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
 msgid ""
 "Choose to render high definition graphics textures. Requires OpenGL, True "
-"Colour and the enhanced.gob file."
+"Color and the enhanced.gob file."
 msgstr ""
 
 #. TRANSLATION: theforceengine
@@ -17518,7 +17518,7 @@ msgstr ""
 
 #. TRANSLATION: openmohaa
 msgctxt "game_options"
-msgid "Choose the texture colour depth."
+msgid "Choose the texture color depth."
 msgstr ""
 
 #. TRANSLATION: openmohaa
